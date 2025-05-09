@@ -1,0 +1,16 @@
+{
+    "folder-customization.folders": [
+        {
+            "path": "turbo-uboor-mvp/apps/web/",
+            "color": "foldercustomization.AnsiColor118"
+        },
+        {
+            "path": "turbo-uboor-mvp/apps/uboor_mobile/",
+            "color": "foldercustomization.AnsiColor14"
+        },
+        {
+            "path": "turbo-uboor-mvp/apps/backend/",
+            "color": "foldercustomization.AnsiColor9"
+        }
+    ]
+}
